@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Strings___collections_and_hello_s___TheDevelopingDeveloper.net
+namespace TheDevelopingDeveloper.net
 {
     class Program
     {
